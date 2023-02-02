@@ -1,2 +1,8 @@
 # CSA0713-Computer-networks
-computer networks lab
+Network devices,
+Star topology,
+Bus topology,
+Ring Topology,
+Mesh Topology,
+Tree Topology,
+Hybrid Topology.
