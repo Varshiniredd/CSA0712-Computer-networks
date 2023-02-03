@@ -5,4 +5,8 @@ Bus topology,
 Ring Topology,
 Mesh Topology,
 Tree Topology,
-Hybrid Topology.
+Hybrid Topology,
+ARP,
+Static,
+CSMA/CA
+
